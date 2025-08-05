@@ -16,4 +16,7 @@ item1 = Item("laptop", 5, 500)
 item2 = Item("phone", 4, 400)
 print(item1.calculate_total_price())
 print(item2.calculate_total_price())
+
+
+
     
