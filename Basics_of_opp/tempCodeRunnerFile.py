@@ -1,0 +1,1 @@
+item2 = Item("phone", 4, 400)
